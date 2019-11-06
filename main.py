@@ -1,9 +1,9 @@
 
- pessoaNome = "Siclano"
-    # Variavel "a" recebe o valor (2)
-a=2                 
-    # Variavel "b" recebe o valor (5)
-b=5                 
+pessoaNome = "Siclano"
+    # Variavel "a" recebe o valor (1)
+a=1                 
+    # Variavel "b" recebe o valor (2)
+b=2                 
 
     # soma das variaveis
 soma = a + b    
@@ -18,8 +18,9 @@ elif(soma == a):
 else:           
     print(pessoaNome + ",Soma maior que a")
 
-    print(" primeira letra de:" + pessoaNome[0]):
-    print(" primeira letra de:" + pessoaNome[1]):
-    
+    print(" primeira letra de:" + pessoaNome[0])
+    print(" segunda letra de:" + pessoaNome[1])
+    print(" terceira letra de:" + pessoaNome[4])
+
 
 
